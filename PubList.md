@@ -4,13 +4,29 @@ title: "Publication and Presentation"
 ---
 
 ## Manuscript
-Effect Measures and Associated Components in Segmented Regression for Interrupted Time Series Analysis \
-__Yongzhe Wang__, James P. Hughes, Narissa J. Nonzee \
-___Journal of Evaluation in Clinical Practice___. (Under Review)
+Health Insurance Enrollment and Disparities in Cervical Cancer Screening Across 47 Counties in Kenya: A Systematic Analysis of National Demographic and Health Data \
+Ana I. Tergas, __Yongzhe Wang__, Myurajan Rubaharan, Gabriela M. Escalante, Brighton Odundo, Jerome Katumba, Javier Gordon Ogembo, Narissa J. Nonzee, Lawrence P. O. Were \
+___The International Journal of Gynecological Cancer___. (Under Review) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5365896)
+
+Divergent prefrontal cortex circuits regulate cued food seeking under distinct metabolic or emotional states \
+Xu O. Zhang, Guillermo Aquino-Miranda, Claire E. Cho, __Yongzhe Wang__, Duy Hoang Ha, Nikita Elinson-Watson, Allen Dong, Caleb Kemere & Fabricio H. Do-Monte \
+___Nature Communications___. [PDF](https://www.nature.com/articles/s41467-025-65347-1)
+
+Racial differences in breast cancer-specific mortality and CVD-specific mortality after breast cancer in post-menopausal women \
+Kerryn W. Reding, Alexi L. Vasbinder, Richard K. Cheng, Ana Barac, __Yongzhe Wang__, Warren J. Szewczyk, Reina Haque, Tarah J. Ballinger, Khadijah Breathett, Aladdin H. Shadyab, Regina Shih, Tomas Nuno, Robert A Wild, Xiaochen Zhang, Rami Nassir, Charles Mouton, Dorothy S. Lane, Lisa Warsinger Martin, JoAnn E. Manson, Marcia L. Stefanick, Michael S Simon, Veronica Jones \
+___Cardio-Oncology___. [PDF](https://link.springer.com/article/10.1186/s40959-025-00403-9#citeas)
+
+Gene expression associated with endocrine therapy resistance in estrogen receptor-positive breast cancer \
+Veronica Jones, Hongwei Holly Yin, Yate-Ching Yuan, __Yongzhe Wang__, Sierra Min Li, Dana Aljaber, Angelica Sanchez, Christine Quinones, Dan Schmolze, Yuan Yuan, Joanne Mortimer, Lisa Yee, Laura Kruper, Tijana Jovanovic-Talisman, Jerneja Tomsic, Nancy Sanchez, Tanya Chavez, Ruth M. O’Regan, Qamar J. Khan, Melissa Davis, Kevin Kalinsky, Jane Meisel, Rick Kittles, Lorna Rodriguez-Rodriguez, Victoria Seewaldt \
+___Scientific Reports___. [PDF](https://www.nature.com/articles/s41598-025-89274-9)
+
+Impact of Travel Burden on Timeliness of Care and Overall Survival for Breast Cancer: A National Cancer Database Analysis \
+__Yongzhe Wang__, Christine M. Quinones, Elizabeth Gonzalez, Preeti Farmah, Hans F. Schoellhammer, Lorena Gonzalez, Nikita Shah, Katharine Schulz-Costello, Jennifer Tseng, Veronica C. Jones \
+___Cancer Medicine___. [PDF](https://onlinelibrary.wiley.com/doi/10.1002/cam4.71354)
 
 Interpretation of Coefficients in Segmented Regression for Interrupted Time Series Analyses \
 __Yongzhe Wang__, Narissa J. Nonzze, Haonan Zhang, Kimlin T. Ashing, Gaole Song, Catherine M. Crespi \
-___BMC Medical Research Methodology___. (Under Review) [PDF](https://doi.org/10.21203/rs.3.rs-3972428/v1)
+___BMC Medical Research Methodology___. [PDF](https://link.springer.com/article/10.1186/s12874-025-02556-8)
 
 “I Probably Shouldn’t Go in Today”: Inequitable Access to Paid Sick Leave and its Impacts on Health Behaviors During the Emergence of COVID-19 in the Seattle Area \
 Chidozie Declan Iwu, Sarah Cox, Sarah Sohlberg, Ashley Kim, Jennifer Logue, Peter Han, Thomas Sibley, Misja Ilcisin, Kairsten Fay, Jover Lee, Denise McCulloch, __Yongzhe Wang__, Michael Boeckh, Janet Englund, Anjum Hajat, Lea Starita, Helen Chu \
